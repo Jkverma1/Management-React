@@ -1,0 +1,52 @@
+.table-collapse {
+  border-collapse: collapse;
+}
+.table td,
+.table th {
+  padding: 0.6rem;
+  font-size: 14px;
+}
+
+.Add-btn {
+  border-radius: 10px;
+  border: transparent;
+  color: #fff;
+  margin-bottom: 30px;
+  padding: 5px 10px;
+  background-color: #00bcd9;
+}
+
+.Action-btn {
+  border-radius: 5px;
+  border: transparent;
+  color: #fff;
+  margin-bottom: 30px;
+  padding: 5px 8px 7px;
+  background-color: #00bcd9;
+}
+
+.btn-container {
+  justify-content: right;
+  display: flex;
+  column-gap: 10px;
+}
+
+.ActionCell {
+  display: flex;
+  column-gap: 10px;
+}
+
+.thead-color {
+  color: #fff;
+}
+.thead-color tr th {
+  background-color: #00bcd9;
+}
+
+.thead-color tr th:first-child {
+  border-top-left-radius: 10px;
+}
+
+.thead-color tr th:last-child {
+  border-top-right-radius: 10px;
+}

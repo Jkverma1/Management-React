@@ -1,0 +1,29 @@
+.squirrelRun,
+.teamMember,
+.staticSquirrel,
+.staticTeam {
+  width: 200px;
+}
+
+.squirrelRun,
+.teamMember {
+  display: none;
+}
+.staticSquirrel:hover,
+.staticTeam:hover {
+  position: absolute;
+  opacity: 0;
+}
+
+.staticSquirrel:hover ~ .squirrelRun,
+.staticTeam:hover ~ .teamMember {
+  display: inline-block;
+}
+.center-div {
+  width: 100%;
+}
+
+.center-div .col-md-6 {
+  width: 100%;
+  height: 300px;
+}

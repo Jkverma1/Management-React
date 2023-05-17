@@ -1,0 +1,40 @@
+[
+  {
+    "squirrel_ID": "deletethisid",
+    "update_timestamp": "SAMPLE DATA",
+    "call_handle": "SAMPLE DATA",
+    "latitude": "SAMPLE DATA",
+    "longitude": "SAMPLE DATA",
+    "location_description": "SAMPLE DATA",
+    "user_name": "SAMPLE DATA",
+    "telephone_number": "SAMPLE DATA",
+    "color": "SAMPLE DATA",
+    "icon": "SAMPLE DATA",
+    "user_SID": "SAMPLE DATA",
+    "team_ID": "SAMPLE DATA",
+    "team_name": "SAMPLE DATA",
+    "chat_channel_SID": "SAMPLE DATA",
+    "teamColor": "SAMPLE DATA",
+    "teamIcon": "SAMPLE DATA",
+    "Action": "SAMPLE DATA"
+  },
+  {
+    "squirrel_ID": "SAMPLE DATA",
+    "update_timestamp": "SAMPLE DATA",
+    "call_handle": "SAMPLE DATA",
+    "latitude": "SAMPLE DATA",
+    "longitude": "SAMPLE DATA",
+    "location_description": "SAMPLE DATA",
+    "user_name": "SAMPLE DATA",
+    "telephone_number": "SAMPLE DATA",
+    "color": "SAMPLE DATA",
+    "icon": "SAMPLE DATA",
+    "user_SID": "SAMPLE DATA",
+    "team_ID": "SAMPLE DATA",
+    "team_name": "SAMPLE DATA",
+    "chat_channel_SID": "SAMPLE DATA",
+    "teamColor": "SAMPLE DATA",
+    "teamIcon": "SAMPLE DATA",
+    "Action": "SAMPLE DATA"
+  }
+]
